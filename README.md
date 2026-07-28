@@ -1,9 +1,10 @@
-# Hello! 🍔
+# Hello!
 > 🍞 I'm a burger without the bread 🍞
 ***
 - casual programmer
 - student
 - Python, JavaScript, HTML
+- Rubik's cubes
 
 <!--
 **BunlessBurger/BunlessBurger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
