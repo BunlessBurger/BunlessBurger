@@ -3,7 +3,6 @@
 ***
 - casual programmer
 - student
-- Python, JavaScript, HTML
 - Rubik's cubes
 
 <!--
