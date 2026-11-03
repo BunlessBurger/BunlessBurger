@@ -1,6 +1,9 @@
 # Hello!
-> 🍞 I'm a burger without the bread 🍞
-***
+I'm a burger without the bread :D
+
+>Just pretend my profile picture is breadless
+
+---
 - casual programmer
 - student
 - Rubik's cubes
